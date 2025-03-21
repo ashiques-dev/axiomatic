@@ -3,6 +3,7 @@ import LogoTicker from "@/components/logo-ticker";
 import Navbar from "@/components/navbar";
 import Pricing from "@/components/pricing";
 import ProductShowcase from "@/components/product-showcase";
+import Testimonials from "@/components/testimonials";
 import React from "react";
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
       <LogoTicker />
       <ProductShowcase />
       <Pricing />
+      <Testimonials />
     </>
   );
 };
