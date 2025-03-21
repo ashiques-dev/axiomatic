@@ -1,3 +1,4 @@
+import CallToAction from "@/components/call-to-action";
 import Hero from "@/components/hero";
 import LogoTicker from "@/components/logo-ticker";
 import Navbar from "@/components/navbar";
@@ -15,6 +16,7 @@ const Home = () => {
       <ProductShowcase />
       <Pricing />
       <Testimonials />
+      <CallToAction />
     </>
   );
 };
