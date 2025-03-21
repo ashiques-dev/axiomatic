@@ -4,7 +4,7 @@
 Axiomatic is a SaaS platform for goal tracking, motivation, and achievement. With intuitive tools for progress monitoring and data analytics, success is just a step away..
 
 ## Live Demo
-Check out the live demo:[Axiomatic](https://axiomatic.vercel.app/)
+Check out the live demo:[Axiomatic](https://axiomatic-saas.vercel.app/)
 
 ## Getting Started
 
